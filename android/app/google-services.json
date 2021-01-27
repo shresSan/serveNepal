@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127590036621",
+    "firebase_url": "https://freelance-job-6405b.firebaseio.com",
+    "project_id": "freelance-job-6405b",
+    "storage_bucket": "freelance-job-6405b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127590036621:android:9ca2130fd24d50ebba9ec4",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_freelance_job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127590036621-uh5603dh3tc4g5q1rbavlk3tdttg6q1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXnW9MDUmwwt2NEQqLjtNb3krFCR7eUPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127590036621-uh5603dh3tc4g5q1rbavlk3tdttg6q1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
